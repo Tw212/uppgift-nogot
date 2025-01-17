@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\bin\Debug\net8.0\uppgift-nogot.exe
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\bin\Debug\net8.0\uppgift-nogot.deps.json
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\bin\Debug\net8.0\uppgift-nogot.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\bin\Debug\net8.0\uppgift-nogot.dll
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\bin\Debug\net8.0\uppgift-nogot.pdb
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.sourcelink.json
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.dll
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\refint\uppgift-nogot.dll
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.pdb
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\uppgift-nogot.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\uppgift-nogot\obj\Debug\net8.0\ref\uppgift-nogot.dll

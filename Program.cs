@@ -14,10 +14,13 @@ void Bubbligt(ref int[] arr)
         }
     }
 }
-static void Main()
-{
-    int[] tal = new int[1000];
-    Random rng = new Random();
-    for(int i= 0; i<tal.Length; i++)
-        tal[i] = rng.Next(0,1000);
+
+int[] tal = new int[1000];
+Random rng = new Random();
+for(int i= 0; i<tal.Length; i++){
+    tal[i] = rng.Next(0,1000);
 }
+    Bubbligt(ref tal);
+    foreach(int element in tal){
+        Console.Write(element + " ");
+    }
