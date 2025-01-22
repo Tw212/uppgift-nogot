@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppgift-nogot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e92891a5a9d60eb7d18af0a87d501a07ba363e07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7ae14f02feed79e5bf8e8bb295cd590b5f9760")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppgift-nogot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppgift-nogot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
